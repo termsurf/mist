@@ -29,13 +29,14 @@ This project has some files to get you started in creating your conlang. See the
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
   <br />
+  <br />
   To the extent possible under law,
   <a rel="dct:publisher"
      href="https://github.com/drumworkteam/seed">
     <span property="dct:title">DrumWork</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">Seed</span>.
-This work is published from:
+This work is published from the
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="US" about="https://github.com/drumworkteam/seed">
   United States</span>.
