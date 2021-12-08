@@ -7,7 +7,7 @@ These are the symbols representing sound bits.<br/>
 Combining into a rhythm like the drum hits.<br/>
 Soon you'll notice that each twist and turn fits.<br/>
 
-These are the wholes that link the speech tones
+These are the wholes that link the speech tones.<br/>
 Morphing our intelligence as we play with each Stone.<br/>
 These are the words we separate with spaces.<br/>
 Defining them carefully so we get down to the basics.<br/>
