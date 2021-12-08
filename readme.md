@@ -19,7 +19,7 @@
 
 <h3 id="summary">Summary</h3>
 
-This project has some files to get you started in creating your conlang. See the text folder.
+This project has some files to get you started in creating your conlang. See the text folder. Use the [tone script](https://github.com/drumworkteam/tone) to write your language words and sentences phonologically.
 
 <h3 id="license">License</h3>
 
