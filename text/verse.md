@@ -8,7 +8,7 @@ Combining into a rhythm like the drum hits.<br/>
 Soon you'll notice that each twist and turn fits.<br/>
 
 These are the wholes that link the speech tones.<br/>
-Morphing our intelligence as we play with each Stone.<br/>
+Morphing our intelligence as we play with each stone.<br/>
 These are the words we separate with spaces.<br/>
 Defining them carefully so we get down to the basics.<br/>
 You'll soon learn how to use them in statements.<br/>
@@ -27,6 +27,6 @@ The key thing to remember is patterns and patience.<br/>
 
 These are the networks merging everything into one.<br/>
 Connecting knowledge together like the moon and the sun.<br/>
-These are the primary thing the Earth yields.<br/>
-Filling the memory with energy from Brook and Field.<br/>
-If you've made it this far it's the Stone that you wield.
+These are the primary thing the earth yields.<br/>
+Filling the memory with energy from brook and field.<br/>
+If you've made it this far it's the stone that you wield.
