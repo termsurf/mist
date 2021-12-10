@@ -21,7 +21,7 @@
 
 This project has some files to get you started in creating your conlang. See the text folder. Use the [tone script](https://github.com/drumworkteam/tone) to write your language words and sentences phonologically.
 
-There are already some great guides on the web explaining how to create a conlang. What is mmostly missing though are a list of words and a list of sentences, and potentially simple stories, which you could translate into your conlang to bootstrap its development. This "seed" project is exactly that, collecting a list of simple words (nouns, verbs, adjectives, adverbs, prepositions, and determiners, in English), simple sentences, and a few simple stories which you could translate into your conlang or fantasy language to help get your mind working and developing your language's rich features.
+There are already some great guides on the web explaining how to create a conlang. What is mostly missing though are lists of words and lists of sentences, and potentially some simple stories, which you could translate into your conlang to bootstrap its development. This "seed" project is exactly that, collecting lists of simple words (nouns, verbs, adjectives, adverbs, prepositions, and determiners, in English), simple sentences, and a few simple stories which you could translate into your conlang or fantasy language to help get your mind working and developing your language's rich features.
 
 _FYI, the word lists are in the process of being developed, and a few more stories and sentences are in the process of being added._
 
