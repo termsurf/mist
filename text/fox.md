@@ -1,6 +1,6 @@
 # Fox
 
-This is the story of a fox. This fox loves to run. She loves running after other animals and even insects. She runs really fast. She loves to feel the wind as she runs. She loves going to different places. She loves meeting other animals. She loves making new friends. She loves to eat meat. Meat makes her strong and healthy.
+This is the story of a fox. This fox loves to run. She loves running after other animals and even insects. She runs really fast. She loves to feel the wind as she runs. She loves going to different places. She loves meeting other animals. She loves making new friends.
 
 One day, she received an invitation. She got a beautiful, purple envelope. On one side is the word "Come!" Inside was a purple paper with lots of flourish. Someone is celebrating a birthday! She took the paper out, and read aloud: "I am inviting you to my birthday!" Below, it says, "Love, the bear,".
 
