@@ -2,7 +2,7 @@
 
 This is the story of a fox. This fox loves to run. She loves running after other animals and even insects. She runs really fast. She loves to feel the wind as she runs. She loves going to different places. She loves meeting other animals. She loves making new friends.
 
-One day, she received an invitation. She got a beautiful, purple envelope. On one side is the word "Come!" Inside was a purple paper with lots of flourish. Someone is celebrating a birthday! She took the paper out, and read aloud: "I am inviting you to my birthday!" Below, it says, "Love, the bear,".
+One day, she received an invitation. She got a beautiful, purple envelope. On one side is the word "Come!" Inside was a purple paper with lots of flourish. Someone is celebrating a birthday! She took the paper out, and read aloud: "I am inviting you to my birthday!" Below, it says, "Love, the bear".
 
 "The bear invited me!" the fox said to herself. She can't believe it! This bear is very popular. She has such cool fur! She is a good singer. She also likes to travel to far places. Purple is her favorite color. The fox has been to some of the bear's parties and they are the best! She jumped on the grass. She is very excited.
 
