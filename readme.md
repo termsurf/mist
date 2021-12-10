@@ -43,6 +43,8 @@ git clone git@github.com:drumworkteam/seed.git
 
 We are currently working on a custom language to aid in mathematical and computational thinking over at [the tune project](https://github.com/drumworkteam/tune), to give you an example. While we started working on the tune language way before creating this seed repo, we aim to go back and forth between the projects, sharing what we learn in creating our first conlang by putting the tools into this seed repo as we discover things we need. Hopefully down the road we have a solid collection of words, sentences, and stories collected through the community to share with everyone, so newcomers and the old alike can get a quickstart into conlang creation.
 
+_Note: some initial inspiration / word sources came from around the web, from places like [this](https://www.reddit.com/r/conlangs/comments/hy5f0z/625_words_to_get_your_conlang_going/)._
+
 <h3 id="license">License</h3>
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
