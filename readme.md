@@ -23,6 +23,10 @@ This project has some files to get you started in creating your conlang. See the
 
 There are already some great guides on the web explaining how to create a conlang. What is mostly missing though are lists of words and lists of sentences, and potentially some simple stories, which you could translate into your conlang to bootstrap its development. This "seed" project is exactly that, collecting lists of simple words (nouns, verbs, adjectives, adverbs, prepositions, and determiners, in English), simple sentences, and a few simple stories which you could translate into your conlang or fantasy language to help get your mind working and developing your language's rich features.
 
+- [Words](https://github.com/drumworkteam/seed/tree/make/text/list/word)
+- [Sentences](https://github.com/drumworkteam/seed/tree/make/text/list/sentence)
+- [Stories](https://github.com/drumworkteam/seed/tree/make/text)
+
 _FYI, the word lists are in the process of being developed, and a few more stories and sentences are in the process of being added._
 
 For "open classed words", words in which there are potentially endless amounts of them (nouns, verbs, adjectives, and adverbs), we have created 4 lists: a list of 10 key easy words to start off with translating, a list of 100 easy words with which you can extend your lexicon, a list of 1000 of the most common or simple words in the category, and a "full" list of words, which is every word we could possibly find in that category (and potentially some miscategorized or wrong words which we need to filter out (send a pull request to help us filter them out if you can!)). For "closed class words", like prepositions and determiners, we have just a full list, since there are so few of them and yet they are almost all important to include in your lexicon.
