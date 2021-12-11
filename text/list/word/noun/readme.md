@@ -1,7 +1,7 @@
 
 ## Verbs to Nouns
 
-- `x-tion` (creation, dedication)
+- `x-tion` (creation, dedication, information)
 - `x-ance` (acceptance)
 - `x-ment` (appointment, assignment)
 - `x-er` (listener, writer, actor, driver)
@@ -11,7 +11,6 @@
 - `x-ery` (bribery, bakery)
 - `x-al` (denial)
 - `x-ee` (attendee)
-- `x-ation` (information)
 - `x-ure` (exposure, failure)
 
 ## Adjectives to Nouns

@@ -45,6 +45,14 @@ We are currently working on a custom language to aid in mathematical and computa
 
 _Note: some initial inspiration / word sources came from around the web, from places like [this](https://www.reddit.com/r/conlangs/comments/hy5f0z/625_words_to_get_your_conlang_going/)._
 
+### Submit Fixes and Improvements
+
+Please help us curate the best words and sentences for easy translation! Here are a few things you can quickly do to help out.
+
+1. **Add missing words.** For each category (noun, verb, adjective, etc.) add any missing words. For example, you can do `node code/uniq adjective/full`, after you've added some adjectives to the `full` list, and it will remove any duplicates (so it's easier to just add words and worry about if they are duplicates later).
+2. **Remove junk words.** Sometimes there will be a non-noun in the noun file, or a junk word. Please flag these and remove them.
+3. **Curate quality words.** Think of what words are "best", that is words that are "simple", "basic", and really easy to understand and translate. For the 10 word list, this should be the simplest of simpl words. For the 100 word list, some more. For the 1000 word list, this should be the simplest 1000 words you can think of. It's hard to figure out what counts as a simple easy to understand word, but if you have opinions here, feel free to submit PRs.
+
 <h3 id="license">License</h3>
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
