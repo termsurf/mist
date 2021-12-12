@@ -1,3 +1,4 @@
+
 # Fox
 
 This is the story of a fox. This fox loves to run. She loves running after other animals and even insects. She runs really fast. She loves to feel the wind as she runs. She loves going to different places. She loves meeting other animals. She loves making new friends.
