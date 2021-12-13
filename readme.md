@@ -27,7 +27,7 @@ There are already some great guides on the web explaining how to create a conlan
 - [Sentences](https://github.com/drumworkteam/seed/tree/make/text/list/sentence)
 - [Stories](https://github.com/drumworkteam/seed/tree/make/text)
 
-_FYI, the word lists are in the process of being developed, and a few more stories and sentences are in the process of being added._
+_FYI, the word lists are in the process of being developed/curated._
 
 First, we have **words**. For "open classed words", words in which there are potentially endless amounts of them (nouns, verbs, adjectives, and adverbs), we have created 4 lists: a list of 10 key easy words to start off with translating, a list of 100 easy words with which you can extend your lexicon, a list of 1000 of the most common or simple words in the category, and a "full" list of words, which is every word we could possibly find in that category (and potentially some miscategorized or wrong words which we need to filter out (send a pull request to help us filter them out if you can!)). For "closed class words", like prepositions and determiners, we have just a full list, since there are so few of them and yet they are almost all important to include in your lexicon.
 
