@@ -136,3 +136,4 @@ Other stuff:
   - https://en.wikipedia.org/wiki/Present_continuous
   - https://en.wikipedia.org/wiki/Imperfective_aspect
   - https://en.wikipedia.org/wiki/Imperfect
+- https://www.decodemandarinchinese.com/formation-of-compound-words/
