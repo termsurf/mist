@@ -7,6 +7,7 @@
 <br/>
 
 <h3 align='center'>
+  <img src="view.svg" width="200"><br/>
   seed
 </h3>
 <p align='center'>
