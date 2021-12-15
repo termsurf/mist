@@ -137,3 +137,6 @@ Other stuff:
   - https://en.wikipedia.org/wiki/Imperfective_aspect
   - https://en.wikipedia.org/wiki/Imperfect
 - https://www.decodemandarinchinese.com/formation-of-compound-words/
+- https://en.wikipedia.org/wiki/Locative_case
+- https://en.wikipedia.org/wiki/Lative_case
+- https://en.wikipedia.org/wiki/Ablative_case
