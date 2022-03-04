@@ -7,8 +7,7 @@
 <br/>
 
 <h3 align='center'>
-  <img src="view.svg" width="180"><br/><br/><br/>
-  seed
+  word
 </h3>
 <p align='center'>
   Public Domain Words and Texts for Conlangs
