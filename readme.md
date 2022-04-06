@@ -7,11 +7,11 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/drumworkteam/talk/blob/make/view/view.svg?raw=true' height='256'>
+  <img src='https://github.com/drumworkteam/mist/blob/make/view/view.svg?raw=true' height='256'>
 </p>
 
 <h3 align='center'>
-  talk
+  mist
 </h3>
 <p align='center'>
   Public Domain Words and Texts for Conlangs
@@ -25,11 +25,11 @@
 
 This project has some files to get you started in creating your conlang. See the text folder. Use the [tone script](https://github.com/drumworkteam/tone) to write your language words and sentences phonologically.
 
-There are already some great guides on the web explaining how to create a conlang. What is mostly missing though are lists of words and lists of sentences, and potentially some simple stories, which you could translate into your conlang to bootstrap its development. This "talk" project is exactly that, collecting lists of simple words (nouns, verbs, adjectives, adverbs, prepositions, and determiners, in English), simple sentences, and a few simple stories which you could translate into your conlang or fantasy language to help get your mind working and developing your language's rich features.
+There are already some great guides on the web explaining how to create a conlang. What is mostly missing though are lists of words and lists of sentences, and potentially some simple stories, which you could translate into your conlang to bootstrap its development. This "mist" project is exactly that, collecting lists of simple words (nouns, verbs, adjectives, adverbs, prepositions, and determiners, in English), simple sentences, and a few simple stories which you could translate into your conlang or fantasy language to help get your mind working and developing your language's rich features.
 
-- [Words](https://github.com/drumworkteam/talk/tree/make/text/list/word)
-- [Sentences](https://github.com/drumworkteam/talk/tree/make/text/list/sentence)
-- [Stories](https://github.com/drumworkteam/talk/tree/make/text)
+- [Words](https://github.com/drumworkteam/mist/tree/make/text/list/word)
+- [Sentences](https://github.com/drumworkteam/mist/tree/make/text/list/sentence)
+- [Stories](https://github.com/drumworkteam/mist/tree/make/text)
 
 _FYI, the "full" word lists will always be in the process of being developed/curated, but the 1000 word lists are pretty complete, though could use another pass or two down the road to double check._
 
@@ -42,7 +42,7 @@ Finally, we have a few **stories** to round things out. Generally speaking, some
 So that's about it! Clone this repo onto your computer and start adding your translations to the CSV files or to the markdown files directly, and if you are so inclined, share your work by publishing it along with any other documents you create on GitHub, like this repo!
 
 ```bash
-git clone git@github.com:drumworkteam/talk.git
+git clone git@github.com:drumworkteam/mist.git
 ```
 
 We are currently working on a custom language to aid in mathematical and computational thinking over at [the tune project](https://github.com/drumworkteam/tune), to give you an example. While we started working on the tune language way before creating this talk repo, we aim to go back and forth between the projects, sharing what we learn in creating our first conlang by putting the tools into this talk repo as we discover things we need. Hopefully down the road we have a solid collection of words, sentences, and stories collected through the community to share with everyone, so newcomers and the old alike can get a quickstart into conlang creation.
