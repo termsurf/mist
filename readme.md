@@ -6,8 +6,11 @@
 <br/>
 <br/>
 
+<p align='center'>
+  <img src='https://github.com/drumworkteam/talk/blob/make/view/view.svg?raw=true' height='256'>
+</p>
+
 <h3 align='center'>
-  <img src="view.svg" width="180"><br/><br/><br/>
   talk
 </h3>
 <p align='center'>
