@@ -1,4 +1,3 @@
-
 <br/>
 <br/>
 <br/>
@@ -7,11 +6,11 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/teamtreesurf/mist/blob/make/view/view.svg?raw=true' height='256'>
+  <img src='https://github.com/teamtreesurf/mist-text/blob/make/view/view.svg?raw=true' height='256'>
 </p>
 
 <h3 align='center'>
-  mist
+  mist-text
 </h3>
 <p align='center'>
   Public Domain Words and Texts for Conlangs
@@ -27,9 +26,9 @@ This project has some files to get you started in creating your conlang. See the
 
 There are already some great guides on the web explaining how to create a conlang. What is mostly missing though are lists of words and lists of sentences, and potentially some simple stories, which you could translate into your conlang to bootstrap its development. This "mist" project is exactly that, collecting lists of simple words (nouns, verbs, adjectives, adverbs, prepositions, and determiners, in English), simple sentences, and a few simple stories which you could translate into your conlang or fantasy language to help get your mind working and developing your language's rich features.
 
-- [Words](https://github.com/teamtreesurf/mist/tree/make/text/list/word)
-- [Sentences](https://github.com/teamtreesurf/mist/tree/make/text/list/sentence)
-- [Stories](https://github.com/teamtreesurf/mist/tree/make/text)
+- [Words](https://github.com/teamtreesurf/mist-text/tree/make/text/list/word)
+- [Sentences](https://github.com/teamtreesurf/mist-text/tree/make/text/list/sentence)
+- [Stories](https://github.com/teamtreesurf/mist-text/tree/make/text)
 
 _FYI, the "full" word lists will always be in the process of being developed/curated, but the 1000 word lists are pretty complete, though could use another pass or two down the road to double check._
 
@@ -68,13 +67,13 @@ Please help us curate the best words and sentences for easy translation! Here ar
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/teamtreesurf/talk">
+     href="https://github.com/teamtreesurf">
     <span property="dct:title">TreeSurf</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">Seed</span>.
 This work is published from the
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="https://github.com/teamtreesurf/talk">
+      content="US" about="https://github.com/teamtreesurf">
   United States</span>.
 </p>
 
@@ -82,4 +81,4 @@ Basically, the content in this toolkit is totally free to use for whatever purpo
 
 <h3 id="mount">TreeSurf</h3>
 
-The talk project is being developed by the folks at [TreeSurf](https://drum.work), a California-based project for helping humanity master information and computation. TreeSurf started off in the winter of 2008 as a spark of an idea, to forming a company 10 years later in the winter of 2018, to the start of a project just beginning its development phases. TreeSurf funds talk's development. It is entirely bootstrapped by working full time and running [Etsy](https://etsy.com/shop/teamtreesurf) and [Amazon](https://www.amazon.com/s?rh=p_27%3AMount+Build) shops. Also find us on [Facebook](https://www.facebook.com/teamtreesurf), [Twitter](https://twitter.com/teamtreesurf), and [LinkedIn](https://www.linkedin.com/company/teamtreesurf). Check out our other GitHub projects as well!
+This project is being developed by the folks at [TreeSurf](https://tree.surf), a California-based project for helping humanity master information and computation. TreeSurf started off in the winter of 2008 as a spark of an idea, to forming a company 10 years later in the winter of 2018, to the start of a project just beginning its development phases. TreeSurf funds this project's development. It is entirely bootstrapped by working full time and running [Etsy](https://etsy.com/shop/teamtreesurf) and [Amazon](https://www.amazon.com/s?rh=p_27%3AMount+Build) shops. Also find us on [Facebook](https://www.facebook.com/teamtreesurf), [Twitter](https://twitter.com/teamtreesurf), and [LinkedIn](https://www.linkedin.com/company/teamtreesurf). Check out our other GitHub projects as well!
