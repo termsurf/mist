@@ -6,7 +6,7 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/teamtreesurf/mist-text/blob/make/view/view.svg?raw=true' height='256'>
+  <img src='https://github.com/tunebond/mist-text/blob/make/view/view.svg?raw=true' height='256'>
 </p>
 
 <h3 align='center'>
@@ -20,15 +20,15 @@
 <br/>
 <br/>
 
-<h3 id="summary">Summary</h3>
+## Summary
 
-This project has some files to get you started in creating your conlang. See the text folder. Use the [tone script](https://github.com/teamtreesurf/tone) to write your language words and sentences phonologically.
+This project has some files to get you started in creating your conlang. See the text folder. Use the [tone script](https://github.com/tunebond/tone) to write your language words and sentences phonologically.
 
 There are already some great guides on the web explaining how to create a conlang. What is mostly missing though are lists of words and lists of sentences, and potentially some simple stories, which you could translate into your conlang to bootstrap its development. This "mist" project is exactly that, collecting lists of simple words (nouns, verbs, adjectives, adverbs, prepositions, and determiners, in English), simple sentences, and a few simple stories which you could translate into your conlang or fantasy language to help get your mind working and developing your language's rich features.
 
-- [Words](https://github.com/teamtreesurf/mist-text/tree/make/text/list/word)
-- [Sentences](https://github.com/teamtreesurf/mist-text/tree/make/text/list/sentence)
-- [Stories](https://github.com/teamtreesurf/mist-text/tree/make/text)
+- [Words](https://github.com/tunebond/mist-text/tree/make/text/list/word)
+- [Sentences](https://github.com/tunebond/mist-text/tree/make/text/list/sentence)
+- [Stories](https://github.com/tunebond/mist-text/tree/make/text)
 
 _FYI, the "full" word lists will always be in the process of being developed/curated, but the 1000 word lists are pretty complete, though could use another pass or two down the road to double check._
 
@@ -41,14 +41,14 @@ Finally, we have a few **stories** to round things out. Generally speaking, some
 So that's about it! Clone this repo onto your computer and start adding your translations to the CSV files or to the markdown files directly, and if you are so inclined, share your work by publishing it along with any other documents you create on GitHub, like this repo!
 
 ```bash
-git clone git@github.com:teamtreesurf/mist.git
+git clone git@github.com:tunebond/mist.git
 ```
 
-We are currently working on a custom language to aid in mathematical and computational thinking over at [the tune project](https://github.com/teamtreesurf/tune), to give you an example. While we started working on the tune language way before creating this talk repo, we aim to go back and forth between the projects, sharing what we learn in creating our first conlang by putting the tools into this talk repo as we discover things we need. Hopefully down the road we have a solid collection of words, sentences, and stories collected through the community to share with everyone, so newcomers and the old alike can get a quickstart into conlang creation.
+We are currently working on a custom language to aid in mathematical and computational thinking over at [the tune project](https://github.com/tunebond/tune), to give you an example. While we started working on the tune language way before creating this talk repo, we aim to go back and forth between the projects, sharing what we learn in creating our first conlang by putting the tools into this talk repo as we discover things we need. Hopefully down the road we have a solid collection of words, sentences, and stories collected through the community to share with everyone, so newcomers and the old alike can get a quickstart into conlang creation.
 
 _Note: some initial inspiration / word sources came from around the web, from places like [this](https://www.reddit.com/r/conlangs/comments/hy5f0z/625_words_to_get_your_conlang_going/)._
 
-### Submit Fixes and Improvements
+## Submit Fixes and Improvements
 
 Please help us curate the best words and sentences for easy translation! Here are a few things you can quickly do to help out.
 
@@ -56,7 +56,7 @@ Please help us curate the best words and sentences for easy translation! Here ar
 2. **Remove junk words.** Sometimes there will be a non-noun in the noun file, or a junk word. Please flag these and remove them.
 3. **Curate quality words.** Think of what words are "best", that is words that are "simple", "basic", and really easy to understand and translate. For the 10 word list, this should be the simplest of simpl words. For the 100 word list, some more. For the 1000 word list, this should be the simplest 1000 words you can think of. It's hard to figure out what counts as a simple easy to understand word, but if you have opinions here, feel free to submit PRs.
 
-<h3 id="license">License</h3>
+## License
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
@@ -67,18 +67,23 @@ Please help us curate the best words and sentences for easy translation! Here ar
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/teamtreesurf">
-    <span property="dct:title">TreeSurf</span></a>
+     href="https://github.com/tunebond">
+    <span property="dct:title">TuneBond</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">Seed</span>.
 This work is published from the
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="https://github.com/teamtreesurf">
+      content="US" about="https://github.com/tunebond">
   United States</span>.
 </p>
 
 Basically, the content in this toolkit is totally free to use for whatever purpose you want, no matter what.
 
-<h3 id="mount">TreeSurf</h3>
+## TuneBond
 
-This project is being developed by the folks at [TreeSurf](https://tree.surf), a California-based project for helping humanity master information and computation. TreeSurf started off in the winter of 2008 as a spark of an idea, to forming a company 10 years later in the winter of 2018, to the start of a project just beginning its development phases. TreeSurf funds this project's development. It is entirely bootstrapped by working full time and running [Etsy](https://etsy.com/shop/teamtreesurf) and [Amazon](https://www.amazon.com/s?rh=p_27%3AMount+Build) shops. Also find us on [Facebook](https://www.facebook.com/teamtreesurf), [Twitter](https://twitter.com/teamtreesurf), and [LinkedIn](https://www.linkedin.com/company/teamtreesurf). Check out our other GitHub projects as well!
+This is being developed by the folks at [TuneBond](https://tune.bond), a
+California-based project for helping humanity master information and
+computation. Find us on[Twitter](https://twitter.com/tunebond),
+[LinkedIn](https://www.linkedin.com/company/tunebond), and
+[Facebook](https://www.facebook.com/tunebond). Check out our other
+[GitHub projects](https://github.com/tunebond) as well!
