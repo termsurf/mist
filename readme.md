@@ -83,7 +83,7 @@ Basically, the content in this toolkit is totally free to use for whatever purpo
 
 This is being developed by the folks at [TuneBond](https://tune.bond), a
 California-based project for helping humanity master information and
-computation. Find us on[Twitter](https://twitter.com/tunebond),
+computation. Find us on [Twitter](https://twitter.com/tunebond),
 [LinkedIn](https://www.linkedin.com/company/tunebond), and
 [Facebook](https://www.facebook.com/tunebond). Check out our other
 [GitHub projects](https://github.com/tunebond) as well!
