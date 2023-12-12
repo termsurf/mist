@@ -6,7 +6,7 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/textsurf/mist-text/blob/make/view/view.svg?raw=true' height='256'>
+  <img src='https://github.com/termsurf/mist-text/blob/make/view/view.svg?raw=true' height='256'>
 </p>
 
 <h3 align='center'>
@@ -22,13 +22,13 @@
 
 ## Summary
 
-This project has some files to get you started in creating your conlang. See the text folder. Use the [tone script](https://github.com/textsurf/tone) to write your language words and sentences phonologically.
+This project has some files to get you started in creating your conlang. See the text folder. Use the [tone script](https://github.com/termsurf/tone) to write your language words and sentences phonologically.
 
 There are already some great guides on the web explaining how to create a conlang. What is mostly missing though are lists of words and lists of sentences, and potentially some simple stories, which you could translate into your conlang to bootstrap its development. This "mist" project is exactly that, collecting lists of simple words (nouns, verbs, adjectives, adverbs, prepositions, and determiners, in English), simple sentences, and a few simple stories which you could translate into your conlang or fantasy language to help get your mind working and developing your language's rich features.
 
-- [Words](https://github.com/textsurf/mist-text/tree/make/text/list/word)
-- [Sentences](https://github.com/textsurf/mist-text/tree/make/text/list/sentence)
-- [Stories](https://github.com/textsurf/mist-text/tree/make/text)
+- [Words](https://github.com/termsurf/mist-text/tree/make/text/list/word)
+- [Sentences](https://github.com/termsurf/mist-text/tree/make/text/list/sentence)
+- [Stories](https://github.com/termsurf/mist-text/tree/make/text)
 
 _FYI, the "full" word lists will always be in the process of being developed/curated, but the 1000 word lists are pretty complete, though could use another pass or two down the road to double check._
 
@@ -41,10 +41,10 @@ Finally, we have a few **stories** to round things out. Generally speaking, some
 So that's about it! Clone this repo onto your computer and start adding your translations to the CSV files or to the markdown files directly, and if you are so inclined, share your work by publishing it along with any other documents you create on GitHub, like this repo!
 
 ```bash
-git clone git@github.com:textsurf/mist.git
+git clone git@github.com:termsurf/mist.git
 ```
 
-We are currently working on a custom language to aid in mathematical and computational thinking over at [the tune project](https://github.com/textsurf/tune), to give you an example. While we started working on the tune language way before creating this talk repo, we aim to go back and forth between the projects, sharing what we learn in creating our first conlang by putting the tools into this talk repo as we discover things we need. Hopefully down the road we have a solid collection of words, sentences, and stories collected through the community to share with everyone, so newcomers and the old alike can get a quickstart into conlang creation.
+We are currently working on a custom language to aid in mathematical and computational thinking over at [the tune project](https://github.com/termsurf/tune), to give you an example. While we started working on the tune language way before creating this talk repo, we aim to go back and forth between the projects, sharing what we learn in creating our first conlang by putting the tools into this talk repo as we discover things we need. Hopefully down the road we have a solid collection of words, sentences, and stories collected through the community to share with everyone, so newcomers and the old alike can get a quickstart into conlang creation.
 
 _Note: some initial inspiration / word sources came from around the web, from places like [this](https://www.reddit.com/r/conlangs/comments/hy5f0z/625_words_to_get_your_conlang_going/)._
 
@@ -67,23 +67,23 @@ Please help us curate the best words and sentences for easy translation! Here ar
   <br />
   To the extent possible under law,
   <a rel="dct:publisher"
-     href="https://github.com/textsurf">
-    <span property="dct:title">TextSurf</span></a>
+     href="https://github.com/termsurf">
+    <span property="dct:title">TermSurf</span></a>
   has waived all copyright and related or neighboring rights to
   <span property="dct:title">mist-text</span>.
 This work is published from the
 <span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="https://github.com/textsurf">
+      content="US" about="https://github.com/termsurf">
   United States</span>.
 </p>
 
 Basically, the content in this toolkit is totally free to use for whatever purpose you want, no matter what.
 
-## TextSurf
+## TermSurf
 
-This is being developed by the folks at [TextSurf](https://text.surf), a
+This is being developed by the folks at [TermSurf](https://term.surf), a
 California-based project for helping humanity master information and
-computation. Find us on [Twitter](https://twitter.com/textsurfcode),
-[LinkedIn](https://www.linkedin.com/company/textsurf), and
-[Facebook](https://www.facebook.com/textsurf). Check out our other
-[GitHub projects](https://github.com/textsurf) as well!
+computation. Find us on [Twitter](https://twitter.com/termsurfcode),
+[LinkedIn](https://www.linkedin.com/company/termsurf), and
+[Facebook](https://www.facebook.com/termsurf). Check out our other
+[GitHub projects](https://github.com/termsurf) as well!
